@@ -1,8 +1,10 @@
 # Arca Docs
 
 This folder contains product and system decisions for the Arca MVP.
+## Documentation
 
-- MVP scope
-- Review flow
-- Spaced repetition logic
-- System data models
+- **MVP Scope:** See [mvp.md](https://github.com/tranguyeenn/Arca/blob/main/docs/mvp.md)
+- Review Flow
+- System Design
+
+

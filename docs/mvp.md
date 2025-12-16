@@ -1,5 +1,7 @@
 # Arca MVP
 
+← Back to [README](https://github.com/tranguyeenn/Arca/blob/main/docs/README.md)
+
 ## What Arca is 
 
 Arca is a web-based study platform that converts uploaded learning materials into strucure, reviewable knowledge and helps user retains that knowledge long-term through adaptive spaced repetition.
@@ -130,3 +132,4 @@ Arca MVP is a focused system that:
 - Guides users through a clean, automated review loop
 
 Everything else is future work.
+

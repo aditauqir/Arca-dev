@@ -1,4 +1,4 @@
-← Back to [README](https://github.com/tranguyeenn/Arca/blob/main/docs/README.md)
+← Back to [Readme](https://github.com/tranguyeenn/Arca/blob/main/docs/README.md)
 
 # Arca MVP
 
@@ -132,5 +132,6 @@ Arca MVP is a focused system that:
 - Guides users through a clean, automated review loop
 
 Everything else is future work.
+
 
 

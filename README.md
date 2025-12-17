@@ -24,7 +24,7 @@ The system decides **what to study and when**, so users can focus on learning in
 
 The current focus of this repository is the **Minimum Viable Product (MVP)**.
 
-- **MVP Scope:** See [`docs/mvp.md`](docs/mvp.md)
+- **MVP Scope:** See [`mvp.md'](docs/mvp.md)
 
 ---
 
@@ -32,10 +32,10 @@ The current focus of this repository is the **Minimum Viable Product (MVP)**.
 
 Core product and system decisions are documented in the `/docs` folder:
 
-- **MVP Scope:** [`docs/mvp.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/mvp.md)
-- **Review Flow:** [`docs/review-flow.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/review-flow.md)
-- **Spaced Repetition Logic:** [`docs/spaced-rep.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/spaced-rep.md)
-- **System Design:** [`docs/system-design.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/systems-design.md)
+- **MVP Scope:** [`mvp.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/mvp.md)
+- **Review Flow:** [`review-flow.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/review-flow.md)
+- **Spaced Repetition Logic:** [`spaced-rep.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/spaced-rep.md)
+- **System Design:** [`system-design.md`](https://github.com/tranguyeenn/Arca/blob/main/docs/systems-design.md)
 
 ---
 

@@ -180,7 +180,7 @@ Represents spaced repetition state for a question.
 - `review_count`
 - `created_at`
 
-Scheduling logic is defined in `spaced-rep.md`.
+Scheduling logic is defined in [spaced-rep.md](https://github.com/tranguyeenn/Arca/blob/main/docs/spaced-rep.md).
 
 ---
 
@@ -225,4 +225,5 @@ Scheduling logic is defined in `spaced-rep.md`.
 This system design defines a clear separation of concerns and a minimal but complete
 architecture for the Arca MVP. It enables reliable content ingestion, adaptive review
 scheduling, and a clean path for future expansion without overcomplicating the initial build.
+
 

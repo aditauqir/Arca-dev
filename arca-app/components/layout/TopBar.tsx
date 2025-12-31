@@ -10,7 +10,7 @@ const TopBar = () => {
         >
           ⚙️
         </button>
-        <div className="w-9 h-9 rounded-full bg-linear-to-br from-blue-400 to-indigo-500" />
+        <div className="w-9 h-9 rounded-full bg-gradient-to-br from-blue-400 to-indigo-500" />
       </div>
     </header>
   );
